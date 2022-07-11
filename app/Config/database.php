@@ -74,7 +74,7 @@ class DATABASE_CONFIG {
 		'host' 		 => '127.0.0.1',
 		'login'      => 'DewTouch',
 		'password'   => 'DewTouch',
-		'database'   => 'dewtouch',
+		'database'   => 'dewtouch_220711',
 		'prefix'     => '',
 		'encoding'   => 'utf8',
 	);
